@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 7.7.0 - *2021-02-26*
+
+- Add `buildargs` property to `docker_image` resource
+
 ## 7.6.1 - *2021-01-11*
 
 - Fixed `reload_signal` and `cpus` bug for `docker_container` in #1090 [@urlund](https://github.com/urlund)
